@@ -78,7 +78,7 @@ insurance-customer-behavior/
 ├── notebooks/ <- Final cleaned Jupyter notebook
 ├── data/ <- Source data
 ├── requirements.txt <- Dependencies
-├── LICENSE <- MIT License (or your choice)
+├── LICENSE <- MIT License
 └── README.md <- This file
 ```
 
